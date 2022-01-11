@@ -17,7 +17,7 @@ client.once('ready', () => {
 console.log("Skule Bot is Running")
 });
 
-const prefix = "/";
+const prefix = "-";
 
 client.on ('message', async message => {
   if (!message.content.startsWith(prefix) || message.author.id === "758800454905233429") return
