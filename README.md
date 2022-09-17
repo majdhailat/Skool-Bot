@@ -1,3 +1,5 @@
+A simple yet feature-packed todo list. You can make multiple lists, cross, check edit, and delete list items. A lot more features as well!
+
 # skule-bot
 Discord bot for the Skule discord server
 
